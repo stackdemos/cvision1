@@ -11,7 +11,7 @@ setup(
     url='https://controlplane.agilestacks.io',
     maintainer='AgileStacks',
     maintainer_email='support@agilestacks.com',
-    description='Python Flask Web Service application.',
+    description='Python Computer Vision Application.',
     long_description=readme,
     packages=find_packages(),
     include_package_data=True,
